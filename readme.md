@@ -55,7 +55,6 @@ client = foursquare.Foursquare(client_id=CLIENT_ID, client_secret=CLIENT_SECRET)
 Please utilize the starter code found in the directory to start the students on today's activities
 [starter code](./code/w8-3.2-starter.ipynb).
 
-> [Solution Code](./code/w8-3.2-solutions.ipynb)
 
 #### Deliverable
 
